@@ -1,20 +1,23 @@
-This is your group repo for your final project for COGS108.
+# NBA Players' Physique vs. Draft Pick Over the Years: Data Analysis Project
+## Project Overview:
+This repository contains a comprehensive data analysis project exploring the relationship between NBA players' physical attributes and their draft picks over the years. The project aims to uncover trends and correlations in player heights, weights, and Body Mass Index (BMI) across different positions and how these factors might influence draft pick decisions.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+## Key Components:
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+Data Cleaning and Preparation: Rigorous data cleaning procedures to ensure data accuracy and reliability for analysis.
+Exploratory Data Analysis (EDA): In-depth analysis to identify patterns, outliers, and key insights within the dataset.
+Statistical Testing: Application of various statistical methods to examine the relationships between player positions, physical characteristics, and draft picks.
+Trend Analysis: Investigation of how physical attributes of NBA players have evolved over the years and their impact on draft picks.
+Repository Contents:
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+## Cleaned and preprocessed data files.
+Jupyter notebooks/scripts containing the EDA and statistical analysis.
+Visualizations illustrating key findings and trends.
+Documentation outlining the methodology, results, and conclusions of the analysis.
+Objective:
+This project aims to provide a data-driven understanding of the evolving physical profiles of NBA players and their potential influence on draft selections. It offers valuable insights for basketball enthusiasts, sports analysts, and data scientists interested in sports analytics.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+## Tools and Technologies Used:
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Python (Pandas, NumPy, StatsModels, Matplotlib, Seaborn)
+Jupyter Notebooks
